@@ -1,0 +1,25 @@
+{
+  "name": "lnconnect",
+  "version": "1.0.0",
+  "description": "`replace admin.macaroon`",
+  "main": "lnconnect.js",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-do/lnconnect-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leon-do/lnconnect-js/issues"
+  },
+  "homepage": "https://github.com/leon-do/lnconnect-js#readme"
+}
